@@ -1,6 +1,8 @@
 ## Web-Design-Challenge Project
 
-    To create a visualization dashboard with individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. It will also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+    To create a visualization dashboard with individual pages for each plot and a means by which we can navigate between them. 
+    These pages will contain the visualizations and their corresponding explanations. 
+    It will also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
 Landing Page (all Images load, images link to their respective pages, Bootstrap grid used correctly to separate sections, page is responsive when window is shrunk; includes a couple paragraphs of an overview for this project).
 Visualization Pages (Every visualization page has all of the following: all Images load, images link to their respective
